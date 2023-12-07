@@ -32,7 +32,7 @@ I would like to be able to save the following car data (the list might expand la
 
 The only properties that are required are `Make`, `Model` and `Fuel`.
 
-The application has to be written in C#.
+The application has to be written in C# (dotnet 8), how you make the UI doesn't matter.
 
 ## How to hand in
 
