@@ -1,5 +1,9 @@
 # CarList
 
+## Before that task has begun
+
+Create a fork of this repo and save all your code in this fork.
+
 ## Timeframe
 
 This task has a timeframe of 3 hours
@@ -27,3 +31,7 @@ I would like to be able to save the following car data (the list might expand la
 - Fuel (petrol/diesel/electric)
 
 The only properties that are required are `Make`, `Model` and `Fuel`.
+
+## How to hand in
+
+Create a PR to the main repo
