@@ -4,6 +4,8 @@
 
 Create a fork of this repo and save all your code in this fork.
 
+Create a folder with your name and create a project in that folder.
+
 ## Timeframe
 
 This task has a timeframe of 3 hours
