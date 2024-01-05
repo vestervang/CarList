@@ -8,7 +8,7 @@ namespace MyCarsDb
             Id = Guid.NewGuid();
         }
 
-        private Guid Id;
+        public Guid Id { get; private set; }
         public required string Make { get; set; }
         public required string Model { get; set; }
         public int? Year { get; set; }
