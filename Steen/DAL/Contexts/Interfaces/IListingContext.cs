@@ -7,5 +7,7 @@ namespace DAL.Contexts.Interfaces
         void AddListing(Listing listing);
         Listing? GetListing(Guid listingId);
         List<Listing> GetListings();
+        Listing ImportListingFromFile(string filename, string nameAfterImport);
+        void SaveListingToFile(Guid listingId);
     }
 }

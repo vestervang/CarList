@@ -36,9 +36,19 @@ namespace BLL.Services
             return _carListContext.ListingContext.GetListings();
         }
 
-        public Listing? GetListing(Guid ListingId) 
+        public Listing? GetListing(Guid listingId) 
         { 
-            return _carListContext.ListingContext.GetListing(ListingId); //Bør man smide en exception her, eller skal det være applicationlaget der håndterer det?
+            return _carListContext.ListingContext.GetListing(listingId); //Bør man smide en exception her, eller skal det være applicationlaget der håndterer det?
+        }
+
+        public void SaveListingToFile(Guid listingId)
+        {
+            _carListContext.ListingContext.SaveListingToFile(listingId);
+        }
+
+        public Listing ImportListingFromFile(string filename, string nameAfterImport)
+        {
+            return _carListContext.ListingContext.ImportListingFromFile(filename, nameAfterImport);
         }
     }
 }
