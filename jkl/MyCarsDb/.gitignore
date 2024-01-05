@@ -2,7 +2,7 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs
-/.vs/MyCarsDb
-/bin/Debug/net8.0
-/obj
+.vs/MyCarsDb
+bin/Debug/net8.0
+obj
+.gitignore
