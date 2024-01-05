@@ -1,0 +1,15 @@
+C:\git_ah\CarList\Alex\FunkyCarApp\bin\Debug\net8.0\FunkyCarApp.exe
+C:\git_ah\CarList\Alex\FunkyCarApp\bin\Debug\net8.0\FunkyCarApp.deps.json
+C:\git_ah\CarList\Alex\FunkyCarApp\bin\Debug\net8.0\FunkyCarApp.runtimeconfig.json
+C:\git_ah\CarList\Alex\FunkyCarApp\bin\Debug\net8.0\FunkyCarApp.dll
+C:\git_ah\CarList\Alex\FunkyCarApp\bin\Debug\net8.0\FunkyCarApp.pdb
+C:\git_ah\CarList\Alex\FunkyCarApp\obj\Debug\net8.0\FunkyCarApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\git_ah\CarList\Alex\FunkyCarApp\obj\Debug\net8.0\FunkyCarApp.AssemblyInfoInputs.cache
+C:\git_ah\CarList\Alex\FunkyCarApp\obj\Debug\net8.0\FunkyCarApp.AssemblyInfo.cs
+C:\git_ah\CarList\Alex\FunkyCarApp\obj\Debug\net8.0\FunkyCarApp.csproj.CoreCompileInputs.cache
+C:\git_ah\CarList\Alex\FunkyCarApp\obj\Debug\net8.0\FunkyCarApp.sourcelink.json
+C:\git_ah\CarList\Alex\FunkyCarApp\obj\Debug\net8.0\FunkyCarApp.dll
+C:\git_ah\CarList\Alex\FunkyCarApp\obj\Debug\net8.0\refint\FunkyCarApp.dll
+C:\git_ah\CarList\Alex\FunkyCarApp\obj\Debug\net8.0\FunkyCarApp.pdb
+C:\git_ah\CarList\Alex\FunkyCarApp\obj\Debug\net8.0\FunkyCarApp.genruntimeconfig.cache
+C:\git_ah\CarList\Alex\FunkyCarApp\obj\Debug\net8.0\ref\FunkyCarApp.dll
