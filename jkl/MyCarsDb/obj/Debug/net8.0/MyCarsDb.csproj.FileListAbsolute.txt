@@ -1,0 +1,15 @@
+C:\git_jkl\CarList\jkl\MyCarsDb\bin\Debug\net8.0\MyCarsDb.exe
+C:\git_jkl\CarList\jkl\MyCarsDb\bin\Debug\net8.0\MyCarsDb.deps.json
+C:\git_jkl\CarList\jkl\MyCarsDb\bin\Debug\net8.0\MyCarsDb.runtimeconfig.json
+C:\git_jkl\CarList\jkl\MyCarsDb\bin\Debug\net8.0\MyCarsDb.dll
+C:\git_jkl\CarList\jkl\MyCarsDb\bin\Debug\net8.0\MyCarsDb.pdb
+C:\git_jkl\CarList\jkl\MyCarsDb\obj\Debug\net8.0\MyCarsDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\git_jkl\CarList\jkl\MyCarsDb\obj\Debug\net8.0\MyCarsDb.AssemblyInfoInputs.cache
+C:\git_jkl\CarList\jkl\MyCarsDb\obj\Debug\net8.0\MyCarsDb.AssemblyInfo.cs
+C:\git_jkl\CarList\jkl\MyCarsDb\obj\Debug\net8.0\MyCarsDb.csproj.CoreCompileInputs.cache
+C:\git_jkl\CarList\jkl\MyCarsDb\obj\Debug\net8.0\MyCarsDb.sourcelink.json
+C:\git_jkl\CarList\jkl\MyCarsDb\obj\Debug\net8.0\MyCarsDb.dll
+C:\git_jkl\CarList\jkl\MyCarsDb\obj\Debug\net8.0\refint\MyCarsDb.dll
+C:\git_jkl\CarList\jkl\MyCarsDb\obj\Debug\net8.0\MyCarsDb.pdb
+C:\git_jkl\CarList\jkl\MyCarsDb\obj\Debug\net8.0\MyCarsDb.genruntimeconfig.cache
+C:\git_jkl\CarList\jkl\MyCarsDb\obj\Debug\net8.0\ref\MyCarsDb.dll
