@@ -2,7 +2,7 @@
 
 namespace Domain.Models
 {
-    public record Car(string Make, string Model, string? Year, string? NumberOfTires, FuelType Fuel)
+    public record Car(string Make, string Model, string? Year, string? NumberOfTires, FuelType Fuel, Guid Id)
     {
     }
 }
