@@ -13,6 +13,6 @@ namespace MyCarsDb
         public required string Model { get; set; }
         public int? Year { get; set; }
         public int? Tires { get; set; }
-        //public required Fuel Fuel { get; set; }
+        public required Fuel Fuel { get; set; }
     }
 }

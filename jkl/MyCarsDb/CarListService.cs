@@ -9,7 +9,8 @@
                 Make = "Ford",
                 Model = "Mondeo",
                 Year = 2012,
-                Tires = 4
+                Tires = 4,
+                Fuel = Fuel.Diesel
             });
         }
 
@@ -22,10 +23,17 @@
             cars.Add(car);
         }
 
+        /// <exception cref="ArgumentOutOfRangeException">Thrown if car with specified Id does not exist in list</exception>
         public void UpdateCar(Car car)
         {
-            //var element = cars.SingleOrDefault(c => c.Id == car.Id);
-            throw new NotImplementedException();
+            var element = cars.SingleOrDefault(c => c.Id == car.Id);
+            if (element != null)
+            {
+                element = car;
+            } else
+            {
+                throw new ArgumentOutOfRangeException(nameof(car), "Car with id " + car.Id + " not found");
+            }
         }
 
         public void ExportList()

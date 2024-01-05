@@ -3,6 +3,6 @@
 ################################################################################
 
 /.vs
-/jkl/MyCarsDb/.vs/MyCarsDb
-/jkl/MyCarsDb/bin/Debug/net8.0
-/jkl/MyCarsDb/obj
+/.vs/MyCarsDb
+/bin/Debug/net8.0
+/obj
