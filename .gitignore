@@ -1,0 +1,28 @@
+# Move all refined rules from Backend and Frontend here.
+# The goal is to have no .gitignore files in Backend and Frontend folders.
+
+# Build folders
+Frontend/dist/
+Frontend/tools/lib/
+
+# Remove any falsy created lock files in root folder.
+# Npm install should only be executed in Frontend
+/package-lock.json
+
+Frontend/node_modules/
+
+
+# Tools
+
+# Do not save any IDE settings in root folder.
+/.vscode/
+/.idea/
+
+# Visual Studio cache/options directory
+.vs/
+
+#Do not save tempConfig.json
+Backend/WebApi/App_Data/TempConfig.json
+!Frontend/src/bin/*.dll
+
+.npmrc
