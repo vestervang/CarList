@@ -1,0 +1,15 @@
+C:\git\CarList\Kasper\bin\Debug\net8.0\Kasper.exe
+C:\git\CarList\Kasper\bin\Debug\net8.0\Kasper.deps.json
+C:\git\CarList\Kasper\bin\Debug\net8.0\Kasper.runtimeconfig.json
+C:\git\CarList\Kasper\bin\Debug\net8.0\Kasper.dll
+C:\git\CarList\Kasper\bin\Debug\net8.0\Kasper.pdb
+C:\git\CarList\Kasper\obj\Debug\net8.0\Kasper.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\CarList\Kasper\obj\Debug\net8.0\Kasper.AssemblyInfoInputs.cache
+C:\git\CarList\Kasper\obj\Debug\net8.0\Kasper.AssemblyInfo.cs
+C:\git\CarList\Kasper\obj\Debug\net8.0\Kasper.csproj.CoreCompileInputs.cache
+C:\git\CarList\Kasper\obj\Debug\net8.0\Kasper.sourcelink.json
+C:\git\CarList\Kasper\obj\Debug\net8.0\Kasper.dll
+C:\git\CarList\Kasper\obj\Debug\net8.0\refint\Kasper.dll
+C:\git\CarList\Kasper\obj\Debug\net8.0\Kasper.pdb
+C:\git\CarList\Kasper\obj\Debug\net8.0\Kasper.genruntimeconfig.cache
+C:\git\CarList\Kasper\obj\Debug\net8.0\ref\Kasper.dll
