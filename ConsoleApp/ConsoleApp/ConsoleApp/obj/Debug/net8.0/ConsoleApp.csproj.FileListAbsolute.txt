@@ -1,0 +1,15 @@
+C:\Git\CarList\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+C:\Git\CarList\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+C:\Git\CarList\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+C:\Git\CarList\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+C:\Git\CarList\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+C:\Git\CarList\ConsoleApp\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\CarList\ConsoleApp\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Git\CarList\ConsoleApp\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\Git\CarList\ConsoleApp\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Git\CarList\ConsoleApp\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.sourcelink.json
+C:\Git\CarList\ConsoleApp\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\Git\CarList\ConsoleApp\ConsoleApp\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\Git\CarList\ConsoleApp\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+C:\Git\CarList\ConsoleApp\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+C:\Git\CarList\ConsoleApp\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
